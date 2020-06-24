@@ -1,4 +1,3 @@
-# HMK2
 Problem 1 – scraping quotes
 Scrapes all the quotes, authors, tags and author page hyperlinks from quotes.toscrape.com. Your code
 should meet the following conditions:
