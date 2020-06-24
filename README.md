@@ -31,4 +31,4 @@ Scrape all the books from books.toscrape.com. The following info should be scrap
 5. URL to book picture,
 6. In stock or not.
 Note: cleaning data (e.g. removing British pound sign from price etc.) is not required, yet highly
-encouraged (at least trials). Using functions and classes is optional yet highly encourag
+encouraged (at least trials). Using functions and classes is optional yet highly encouraged
